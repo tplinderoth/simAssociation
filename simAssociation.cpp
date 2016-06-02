@@ -1,5 +1,8 @@
 /*
  * simAssociation.cpp
+ * Author: Tyler Linderoth
+ * tylerp.linderoth@gmail.com
+ *
  */
 
 #include "simAssociation.h"
